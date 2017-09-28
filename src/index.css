@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo|Open+Sans:300');
+
+body {
+  font-family: sans-serif;
+  background-color: #C5DAEB;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+textarea:focus, input:focus{
+  outline: none;
+}
+
+ul {
+	list-style-type: circle;
+	color: #3C4798;
+}
+
+ul li {
+	color: black;
+}
